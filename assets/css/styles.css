@@ -5,13 +5,13 @@
 	font-family: Helvetica, Arial, sans-serif;
 }
 .backgroundImage {
-	background-image; url(../img/wrench.png);
+	background-image: url(../img/chapter3_wrench.png);
 	width: 400px;
 	height: 400px;
 	margin: 64px auto;
 }
 .backgroundImage:hover {
-	background-image: url(../img/chapter\ 3_clock.png);
+	background-image: url(../img/chapter3_clock.png);
 	cursor: crosshair;
 }
 .text {
@@ -39,7 +39,6 @@ h2 {
   font-optical-sizing: auto;
   font-weight: 900;
   font-style: normal;
-}
 }
 h3 {
   font-size: 16px;
